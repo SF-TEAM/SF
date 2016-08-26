@@ -253,7 +253,8 @@ function create_config( )
 	"me",
 	"joke",
 	"warning",
-	"help"
+	"help",
+	"kickall"
     },
     sudo_users = {221843618},--Sudo users
     moderation = {data = 'data/moderation.json'},
