@@ -26,4 +26,3 @@ msg.to.peer_id, con = matches[2]})
         '^[!/#](rm) (%d*)$'
     }
     run = run
-}
